@@ -1,5 +1,7 @@
-# ecommerce-site-automation-playwrightJS-page-object-model-allure-reports
-
+# Ecommerce Site Automation With PlaywrightJs
+Automate Login User With username and password and Select Product dynamically and add to Cart Product.
+Successfully purches product whuich is added to Cart with user details form fillup.There are use Some Assertion 
+to Check Validity.Also User Can Successfully Logout.
 
 ## Technology used:
 - Playwright JS
@@ -9,15 +11,15 @@
 
 ## Screenshots 
 Successfully Order Palced
-
 ![App Screenshot](https://github.com/shihab0005/ecommerce-site-automation-playwrightJS-page-object-model-allure-reports/blob/main/outputs/test-finished-1%20copy%202.png?raw=true)
 ![App Screenshot](https://github.com/shihab0005/ecommerce-site-automation-playwrightJS-page-object-model-allure-reports/blob/main/outputs/test-finished-1%20copy.png?raw=true)
+![App Screenshot](https://github.com/shihab0005/ecommerce-site-automation-playwrightJS-page-object-model-allure-reports/blob/main/outputs/test-finished-1.png?raw=true)
 ![App Screenshot](https://github.com/shihab0005/ecommerce-site-automation-playwrightJS-page-object-model-allure-reports/blob/main/outputs/test-finished-1.png?raw=true)
 
 ## Prerequisite:
 - Node Js
 - VSCode
-- 
+  
 ## Project Installation Process:
 
 - Clone Project Command:
