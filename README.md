@@ -9,6 +9,9 @@ to Check Validity.Also User Can Successfully Logout.
 - Allure Report
 - Html Report
 
+##Project Video
+[6fb6f157c65fc447.webm](https://github.com/shihab0005/ecommerce-site-automation-playwrightJS-page-object-model-allure-reports/assets/41753677/dace57a8-45a1-441b-aa1f-7b7f94fa51b5)
+
 ## Screenshots 
 Successfully Order Palced
 ![App Screenshot](https://github.com/shihab0005/ecommerce-site-automation-playwrightJS-page-object-model-allure-reports/blob/main/outputs/test-finished-1%20copy%202.png?raw=true)
