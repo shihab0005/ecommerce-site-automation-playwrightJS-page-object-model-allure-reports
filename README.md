@@ -10,7 +10,7 @@
 ## Screenshots 
 Successfully Order Palced
 
-![App Screenshot](https://raw.githubusercontent.com/shihab0005/automation-playwright-js-order-product-ecommerce/main/test-results/Registration-Registration-For-this-Site/test-finished-1.png)
+![App Screenshot](https://github.com/shihab0005/ecommerce-site-automation-playwrightJS-page-object-model-allure-reports/blob/main/outputs/test-finished-1%20copy%202.png?raw=true)
 ![App Screenshot](https://github.com/shihab0005/automation-playwright-js-order-product-ecommerce/blob/main/test-results/Registration-Registration-For-this-Site/video.webm)
 
 ## Prerequisite:
