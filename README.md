@@ -22,7 +22,7 @@ Successfully Order Palced
 
 - Clone Project Command:
 ```bash
-   git clone 
+   git clone https://github.com/shihab0005/ecommerce-site-automation-playwrightJS-page-object-model-allure-reports.git 
 ```
 - Install All Project Package:
 ```bash
